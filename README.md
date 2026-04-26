@@ -39,7 +39,7 @@ SRCS = main.c: Lista de archivos fuente.
 
 OBJS = $(SRCS:.c=.o): Esta es una sustitución de sufijos. Le dice a Make: "toma todo lo que esté en SRCS y cambia la extensión .c por .o". Así automatizas la lista de archivos objeto.
 ```
-![salidaMainC](\makefileEjercicios\makefile1\makefile1\evidencias\salidaMK1.png "salidaMF")
+![salidaMainC](/makefile1/evidencias/salidaMK1.png "salidaMF")
 
 
 
