@@ -1,0 +1,4 @@
+# Ignorar binarios y objetos
+*.o
+*.exe
+hola
